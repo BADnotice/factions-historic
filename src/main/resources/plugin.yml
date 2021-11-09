@@ -1,0 +1,7 @@
+name: factions-historic
+version: @version@
+main: io.github.badnotice.factionshistoric.FactionsHistoricPlugin
+authors: [ BADnotice ]
+depend:
+  - Factions
+  - MassiveCore
