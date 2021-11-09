@@ -2,6 +2,16 @@
 factions-historic é um plugin simples que tem como objetivo salvar as facções que um jogador criou ou entrou.
 (Kibe RedeStone).
 
+## Comandos
+<table border="1" style="border-collapse: collapse">
+<tr>
+<th>Comando</th> <th>Descrição</th>
+</tr>
+<tr>
+<td>/f historic/historico <player> </td> <td>Visualizar historico do jogador.
+</tr>
+</table>
+
 ## Tecnologias utilizadas
 O Projeto foi desenvolvido utilizando as seguintes tecnologias.
 
