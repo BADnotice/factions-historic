@@ -22,7 +22,7 @@ public final class SkullHelper {
     }
 
     public static ItemStack getTextureHead(String url) {
-        return HEAD_CACHE.computeIfAbsent(url, k -> createPlayerHead(url)).clone();
+        return HEAD_CACHE.computeIfAbsent(url, k -> createTexture(url)).clone();
     }
 
     public static ItemStack getPlayerHead(Player player) {
